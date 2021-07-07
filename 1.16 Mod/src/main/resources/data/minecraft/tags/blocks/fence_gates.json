@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "moreblocksmod:nether_brick_fence_gate",
+    "moreblocksmod:stone_fence_gate"
+  ]
+}

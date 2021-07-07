@@ -1,0 +1,14 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="All rights reserved"
+
+[[mods]]
+modId="moreblocksmod"
+version="1.0"
+displayName="More Blocks Mod"
+logoFile="moreblocksmod.png"
+credits="Me"
+authors="Me"
+description='''
+Mod made by me
+'''

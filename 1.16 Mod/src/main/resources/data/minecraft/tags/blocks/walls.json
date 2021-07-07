@@ -1,0 +1,13 @@
+{
+	"replace": false,
+	"values": [
+		"moreblocksmod:purpur_wall",
+		"moreblocksmod:oak_planks_wall",
+		"moreblocksmod:spruce_planks_wall",
+		"moreblocksmod:birch_planks_wall",
+		"moreblocksmod:jungle_planks_wall",
+		"moreblocksmod:acacia_planks_wall",
+		"moreblocksmod:dark_oak_planks_wall",
+		"moreblocksmod:stone_wall"
+	]
+}
